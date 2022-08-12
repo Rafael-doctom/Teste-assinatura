@@ -238,16 +238,10 @@
         width: auto;
     }
 }
-@media (max-width: 500px) {
-        .image-assinatura{
-            width: 150px;
-            height: 180px;
-        }
-}
-@media (max-width:350px){
+@media (max-width:400px){
     .image-assinatura{
-        width: 150px;
-        height: 180px;
+        width: 80px;
+        height: 80px;
     }
 }
 .toimage{
